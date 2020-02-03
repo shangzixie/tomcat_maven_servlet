@@ -1,3 +1,3 @@
 # tomcat_maven_servlet
 
-this is a back end web. The html is in main index.html
+Back end. The html is in main index.html
